@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "steve"
 baseurl: "loisapark.github.io"
 
 # Includes
