@@ -6,7 +6,7 @@ order: 1
 ---
 
 I am a public health researcher and currently working on my PhD in the  
-<a href="https://spatial.usc.edu/ph-d-in-population/">Population, Health and Place Program</a> at the Spatial Sciences Institute of the University of Southern California. I answer population health questions from a spatial perspective and have a special interest in low- and middle-income countries.
+<a href="https://spatial.usc.edu/ph-d-in-population/">Population, Health and Place Program</a> at the Spatial Sciences Institute of the University of Southern California. I answer population health questions from a spatial perspective and have a special interest in health in low- and middle-income countries.
 
 I am a part of the <a href="https://spatial-computing.github.io/" title="Title">Spatial Computing Lab</a>.
 <br><br>
