@@ -57,7 +57,7 @@ defaults:
 
 # Serving
 url: ""
-baseurl: "loisapark"
+baseurl: "loisapark.github.io"
 
 # Includes
 include: ["_pages"]
