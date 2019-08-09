@@ -25,14 +25,20 @@ order: 3
 * Joos O., Amouzou A., Silva R., Banda B.,  Park L., Bryce J., Kanyuka M., and RMM Malawi Working Group <b><a href="https://doi.org/10.1371/journal.pone.0138406">“Strengthening community-based vital events reporting for real-time monitoring of child mortality: Lessons learned from Balaka and Salima districts in Malawi.”</a></b> <i>PLoS ONE</i> 11(1): e0138406. Jan 2016.
 
 ##### 2015
-* Hazel E., Amouzou A., Park L., Banda B., Chimuna T., Guenther T., Nsona H., Victora C., and Bryce J. <b><a href="https://doi.org/10.4269/ajtmh.14-0396">“Real-time assessments of the strength of program implementation for community case management of childhood illness: Validation of mobile-phone based method in Malawi.”</a></b> <i>American Journal of Tropical Medicine and Hygiene</i> 92(3): 660-665. Mar 2015.
+* Hazel E., Amouzou A., Park L., Banda B., Chimuna T., Guenther T., Nsona H., Victora C., and Bryce J. <b><a href="https://doi.org/10.4269/ajtmh.14-0396">“Real-time assessments of the strength of program implementation for community case management of childhood illness: Validation of mobile-phone based method in Malawi.”</a></b> <i>American Journal of Tropical Medicine and Hygiene</i> 92(3): 660-665. Mar 2015.<br>
+<br>
 
-<br><br>
+*****
+
+
 ### TECHNICAL REPORTS
 * The Countdown to 2030 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/reports-and-publications/countdown-2017-report">“Tracking progress towards universal coverage for reproductive, newborn and child health: The 2017 report.”</a></b> Washington, DC: United Nations Children's Fund and the World Health Organization. 2017.<br><br>
 * The Countdown to 2015 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/2015/2015-final-report">“A decade of tracking progress for maternal, newborn and child survival: The 2015 report.”</a></b> Geneva: World Health Organization. 2015.<br><br>
-* The Countdown to 2015 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/2014-report">“Countdown to 2015: Fulfilling the health agenda for women and children.”</a></b> Geneva: World Health Organization. 2014.
+* The Countdown to 2015 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/2014-report">“Countdown to 2015: Fulfilling the health agenda for women and children.”</a></b> Geneva: World Health Organization. 2014.<br>
+<br>
 
-<br><br>
+*****
+
+
 ### CONFERENCE PAPERS AND PROCEEDINGS
 * Park L. 2019 <b>“Subnational estimates of health in low- and middle-income countries: a geospatial approach with interpolation and raster analysis.”</b> Paper presented to the International Cartographic Conference, Tokyo, 15-20 July 2019.
