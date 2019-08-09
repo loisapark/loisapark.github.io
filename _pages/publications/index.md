@@ -30,9 +30,7 @@ order: 3
 <br><br>
 ### TECHNICAL REPORTS
 * The Countdown to 2030 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/reports-and-publications/countdown-2017-report">“Tracking progress towards universal coverage for reproductive, newborn and child health: The 2017 report.”</a></b> Washington, DC: United Nations Children's Fund and the World Health Organization. 2017.<br><br>
-
 * The Countdown to 2015 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/2015/2015-final-report">“A decade of tracking progress for maternal, newborn and child survival: The 2015 report.”</a></b> Geneva: World Health Organization. 2015.<br><br>
-
 * The Countdown to 2015 for Maternal, Newborn and Child Survival. <b><a href="http://countdown2030.org/2014-report">“Countdown to 2015: Fulfilling the health agenda for women and children.”</a></b> Geneva: World Health Organization. 2014.
 
 <br><br>
