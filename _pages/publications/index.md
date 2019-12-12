@@ -6,6 +6,9 @@ order: 3
 ---
 ### PEER-REVIEWED PUBLICATIONS
 
+##### 2019
+* Requejo J., Diaz T., Park L., Chou D., Choudhury A., Guthold R., Jackson D., Moller A., Monet J., Moran AC., Say L., Strong KL., Banerjee A. <b>“Identifying progress and measurement gaps in coverage of reproductive, maternal, newborn, child and adolescent health and nutrition interventions”</b> <i>The BMJ</i> Forthcoming.
+
 ##### 2018
 * Self A., Chipokosa S., Misomali A., Aung T., Harvey SA., Chimbalanga M., Chilembwe., Park L., Chalimba C., Kamoto P., Monjeza E., Kachale F., Ndawala J., and Marx MA. <b><a href="https://doi.org/10.1186/s12978-018-0549-9">"Youth accessing reproductive health services in Malawi: drivers, barriers, and suggestions from the perspectives of youth and parents”</a></b> <i>Reproductive Health</i> 15(1): 108. Jun 2018.<br><br>
 * Boerma T., Requejo J., Victora CG., Amouzou A., George A., Agyepong I., Barroso C., Barros AJD., Bhutta ZA., Black RE., Borghi J., Buse K., Carvajal Aguirre L., Chopra M., Chou D., Chu Y., Claeson M., Daelmans B., Davis A., DeJong J., Diaz T., El Arifeen S., Ewerling F., Fox M., Gillespie S., Grove J., Guenther A., Haakenstad A., Hosseinpoor AR., Hounton S., Huicho L., Jacobs T., Jiwani S., Keita Y., Khosla R., Kruk ME., Kuo T., Kyobutungi C., Langer A., Lawn JE., Leslie H., Liang M., Maliqi B., Manu A., Masanja H., Marchant T., Menon P., Moran AC., Mujica OJ., Nambiar D., Ohiri K., Park LA., Patton GC., Peterson S., Piwoz E., Rasanathan K., Raj A., Ronsmans C., Saad-Haddad G., Sabin ML., Sanders D.,Sawyer SM., da Silva ICM., Singh NS., Somers K., Spiegel P., Tappis H., Temmerman M., Vaz LME., Ved RR., Vidaletti LP., Waiswa P., Wehrmeister FC., Weiss W., You D., Zaidi S. <b><a href="https://doi.org/10.1016/S0140-6736(18)30104-1">"Countdown to 2030: tracking progress towards universal coverage for reproductive, maternal, newborn, and child health”</a></b> <i>The Lancet</i> 391(10129):1538-1548. Jan 2018.
