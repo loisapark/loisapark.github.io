@@ -6,8 +6,9 @@ order: 3
 ---
 ### PEER-REVIEWED PUBLICATIONS
 
-##### 2019
-* Requejo J., Diaz T., Park L., Chou D., Choudhury A., Guthold R., Jackson D., Moller A., Monet J., Moran AC., Say L., Strong KL., Banerjee A. <b>“Identifying progress and measurement gaps in coverage of reproductive, maternal, newborn, child and adolescent health and nutrition interventions”</b> <i>The BMJ</i> Forthcoming.
+##### 2020
+* Wilson E., Hazel E., Park L., Carter E., Moulton L., Heidkamp R., and Perin J. <b><a href="https://doi.org/10.1186/s12942-020-0198-4">"Obtaining district-level health estimates using geographically masked location from Demographic and Health Survey data.”</a></b> <i>International Journal of Health Geographics</i> 19:2. Feb 2020.<br><br>
+* Requejo J., Diaz T., Park L., Chou D., Choudhury A., Guthold R., Jackson D., Moller A., Monet J., Moran AC., Say L., Strong KL., Banerjee A. <b><a href="https://doi.org/10.1136/bmj.l6915">“Assessing coverage of interventions for reproductive, maternal, newborn, child, and adolescent health and nutrition interventions”</a></b> <i>The BMJ</i> 368:I6915. Jan 2020.
 
 ##### 2018
 * Self A., Chipokosa S., Misomali A., Aung T., Harvey SA., Chimbalanga M., Chilembwe., Park L., Chalimba C., Kamoto P., Monjeza E., Kachale F., Ndawala J., and Marx MA. <b><a href="https://doi.org/10.1186/s12978-018-0549-9">"Youth accessing reproductive health services in Malawi: drivers, barriers, and suggestions from the perspectives of youth and parents”</a></b> <i>Reproductive Health</i> 15(1): 108. Jun 2018.<br><br>
